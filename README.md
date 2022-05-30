@@ -5,7 +5,7 @@
 
 ## Gradients
 
-Directions can be either in degrees or using the 'to right' method.
+Directions can be either in degrees or using the 'to right' method.  
 https://www.w3schools.com/cssref/func_linear-gradient.asp
 
 ```
